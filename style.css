@@ -46,7 +46,7 @@ body{
     line-height: 1;
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
-    background-position: 130% 220%, -26% -120%;
+    background-position: 150% 220%, -26% -120%;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -135,7 +135,7 @@ span, p{
 
 @media screen and (min-width: 1440px ){
     body{
-        background-position: -70% 350%, 170% -300%;
+        background-position: -30% 350%, 105% -500%;
     }
 }
 
